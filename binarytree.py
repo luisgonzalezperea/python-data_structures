@@ -117,3 +117,4 @@ class BinaryTree():
                     q.put(current.left) # q.enqueue(current.left)
                 if current.right: # if the node has right child.
                     q.put(current.right) # q.enqueue(current.right)
+                    
