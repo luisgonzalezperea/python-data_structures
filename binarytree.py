@@ -4,6 +4,7 @@ import queue
 
 ########################################################## Binary tree.
 
+
 class Node:
     def __init__(self, elem, left = None, right = None, parent = None):
         self.elem = elem
