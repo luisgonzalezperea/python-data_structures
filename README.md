@@ -13,3 +13,4 @@ I have added the implementation of some of the most used data structures, as wel
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 Just Python.
+[<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B" />](https://www.python.org/)
